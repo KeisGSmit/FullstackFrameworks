@@ -26,7 +26,9 @@ SECRET_KEY = 'j3qe382!1-pj#7vw@e8=o*exiduix043u5&*nx%&3zcwl*k3u8'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'keis-todolist.herokuapp.com'
+    ]
 
 
 # Application definition
